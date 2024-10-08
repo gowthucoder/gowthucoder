@@ -25,29 +25,6 @@
   <li>
     <a style="font-weight: bold;" href="https://flourishing-meerkat-370485.netlify.app/">Graph Generation Tool</a>
     <ul>
-      <li>React Front-End: https://github.com/sanjaysaravanan/dashboard-ui-js </li>
-      <li>Python Backend-End: https://github.com/sanjaysaravanan/dashboard-api </li>
-      <li>DataBase: MongoDB </li>
-    </ul>
-  </li>
-  <li>
-    <a style="font-weight: bold;" href="https://sanjaysaravanan.dev">sanjaysaravanan.dev</a>
-    <ul>
-      <li>NextJS React Front-End: https://github.com/sanjaysaravanan/test-drive </li>
-      <li>ImageKit CDN: https://github.com/sanjaysaravanan/dashboard-api </li>
-    </ul>
-  </li>
-  <li>
-    <a style="font-weight: bold;" href="https://phenomenal-cactus-c80763.netlify.app/">Todo List</a>
-    <ul>
-      <li>Angular Front-End: https://github.com/sanjaysaravanan/todo-app-angular </li>
-      <li>NodeJS Backend: Coming Soon </li>
-    </ul>
-  </li>
-  <li>
-    <a>Expense Tracker - Coming Soon</a>
-  </li>
-</ol>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/account" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/gowtham-r-58a645294/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BB%2FhnypAHRkuNM5HiL2VIBQ%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
